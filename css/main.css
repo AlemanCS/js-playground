@@ -1,11 +1,11 @@
 body {
   background-color: #222;
 }
- h1, h5 {
+.center {
    font-family: sans-serif, Opensans;
    text-align: center;
    left: 0;
-   line-height: 200px;
+   line-height: 100px;
    margin: auto;
    position: absolute;
    top: 50%;

@@ -1,3 +1,8 @@
-$(document).ready(function() {
-  $(".main").addClass("animated shake");
+$(document).ready(function(){
+    $("h1").click(function(){
+        $(this).hide();
+    });
+    $("h5").click(function(){
+        $(this).hide();
+    });
 });

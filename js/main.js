@@ -1,8 +1,6 @@
 $(document).ready(function(){
-    $("h1").click(function(){
-        $(this).hide();
-    });
-    $("h5").click(function(){
-        $(this).hide();
+    $("button").click(function(){
+        $("h1").toggle();
+        $("h5").toggle();
     });
 });

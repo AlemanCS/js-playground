@@ -1,0 +1,22 @@
+body {
+  background-color: #222;
+}
+ h1, h5 {
+   font-family: sans-serif, Opensans;
+   text-align: center;
+   left: 0;
+   line-height: 200px;
+   margin: auto;
+   position: absolute;
+   top: 50%;
+   width: 100%;
+ }
+h1 {
+  color: #efefef;
+  margin-top: -130px;
+  font-size: 64px;
+}
+h5 {
+  color: #ddd;
+  margin-top: -70px;
+}
